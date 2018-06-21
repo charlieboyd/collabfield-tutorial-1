@@ -63,3 +63,5 @@ gem 'jquery-rails'
 gem 'coffee-script-source', '1.8.0'
 
 gem 'devise'
+
+gem 'bootstrap_form'
